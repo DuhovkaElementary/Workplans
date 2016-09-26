@@ -1,0 +1,56 @@
+Stella
+======
+Blue Class, Duhovka School, Prague
+
+*Sometime*
+
+* [ ] Continents
+=============================
+image:https://upload.wikimedia.org/wikipedia/en/9/99/BlankMap-World-Continents-Coloured.png["Continents", width=100]
+=============================
+
+
+*Tuesday*
+
+* [ ] What did we do?
+================
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png["weekend", width=75]
+================
+
+
+* [ ] 1 x 1 = 1, 2 x 1 = 2
+===============
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PSM_V26_D467_Table_of_pythagoras_on_slats.jpg/800px-PSM_V26_D467_Table_of_pythagoras_on_slats.jpg["times tables", width=75]
+===============
+
+* [ ] Time
+================
+image:https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWIuRgt97X-Xk_LQX21NCRF1JXgwoBk01j6cS_Q1FZyczgKz6UaQ["Time", width=75]
+================
+
+*Thursday*
+
+* [ ] 1 x 1 = 1, 2 x 1 = 2
+=====
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/PSM_V26_D467_Table_of_pythagoras_on_slats.jpg/800px-PSM_V26_D467_Table_of_pythagoras_on_slats.jpg["Times tables", width=75]
+=====
+
+
+* [ ] Time
+========
+image:https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWIuRgt97X-Xk_LQX21NCRF1JXgwoBk01j6cS_Q1FZyczgKz6UaQ["Time", width=75]
+========
+
+*Friday*
+
+
+* [ ] Shapes
+======
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Basic_shapes.svg/2000px-Basic_shapes.svg.png["Shapes", width=75]
+======
+
+* [ ] What did we do?
+================
+image:https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png["weekend", width=75]
+================
+
