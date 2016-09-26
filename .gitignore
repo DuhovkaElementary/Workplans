@@ -1,3 +1,13 @@
+# Editor detritus
+# ---------------
+#
+
+*.swp
+
+# Directories
+# -----------
+#
+
 1st_Years/Archived
 2nd_Years/Archived
 3rd_Years/Archived

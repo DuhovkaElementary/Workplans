@@ -1,18 +1,20 @@
-Adam K
-======
+Nicolas
+=======
 
 WARNING: Please look at this plan and choose some of the work on it
+NOTE: Ask a third year to help you understand your plan.
 
 == Sometime ==
 
 Maths Word Problems ! x 2
 
-Class diary
+Class diary::
+  Do this with a third year. If you do it with Matěj, behave or you will not work together again.
 
 Reading and tricky sentence
 
 What I saw in the Planetarium::
-  Five sentences on what you saw in the Planetarium. (These sentences should be different from other children's.)
+  Three sentences on what you saw in the Planetarium. (These sentences should be different from other children's.)
 
 == Tuesday ==
 The first step of the First Great Lesson
